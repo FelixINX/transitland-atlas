@@ -2886,13 +2886,6 @@
       }
     },
     {
-      "id": "f-dott~ellwangen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ellwangen/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~elmshorn~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3044,13 +3037,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/grado/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~greifswald~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/greifswald/gbfs.json"
       }
     },
     {
@@ -4860,6 +4846,13 @@
       }
     },
     {
+      "id": "f-esel~ac~aachen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://di.esel.ac/gbfs/gbfs.json"
+      }
+    },
+    {
       "id": "f-evie~carshare~twin~cities~mn~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5011,6 +5004,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://data.rideflamingo.com/gbfs/3/auckland/gbfs.json"
+      }
+    },
+    {
+      "id": "f-flamingo~christchurch~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.rideflamingo.com/gbfs/3/christchurch/gbfs.json"
       }
     },
     {
@@ -5998,6 +5998,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://moinesti.publicbikesystem.net/customer/gbfs/v3.0/"
+      }
+    },
+    {
+      "id": "f-mol~bubi~budapest~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bh/gbfs.json"
       }
     },
     {
